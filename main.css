@@ -1,0 +1,12 @@
+#buttons button{
+    margin: 9px 7px;
+    width: 26%;
+    height: 90%;
+    
+    
+}
+
+#buttons #btns-remove{
+    display: flex;
+    justify-content: space-between;
+}
